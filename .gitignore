@@ -2,5 +2,5 @@
 .vscode/
 .DS_Store
 *.log
-
+docs/
 infrastructure/.env
